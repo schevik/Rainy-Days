@@ -13,13 +13,17 @@ body {
 }
 
 .men {
-    display: inline-block;
-    position: absolute;
-    margin-bottom: auto;
-    right: auto;
-    background-color: cornflowerblue;
+    background-color: blue;
     color: white;
-    text-transform: uppercase;
-    padding: 1em 1.5em;
-    
+}
+
+.woman {
+    background-color: violet;
+    color: white;
+
+}
+
+.children {
+    background-color: yellow;
+    color: white;
 }

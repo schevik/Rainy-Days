@@ -1,5 +1,6 @@
-.gender {
-    width: auto;
-    font-size: large;
-    color: indigo;
+body {
+    background-color: lightblue;
+}
+main {
+    background-color: black;
 }

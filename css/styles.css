@@ -16,6 +16,7 @@ body {
 .men {
     background-color: blue;
     color: white;
+    text-align: center;
 }
 
 .woman {

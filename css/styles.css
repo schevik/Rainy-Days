@@ -3,7 +3,7 @@ body {
 }
 
 .btn {
-    border: none;
+    border left: 100px;
     background-color: cornflowerblue;
     padding: 14px 28px;
     font-size: 16px;

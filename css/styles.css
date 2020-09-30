@@ -1,6 +1,11 @@
 body {
     background-color: lightblue;
 }
-main {
-    background-color: black;
+
+button {
+
+    position: absolute;
+    left: 100px;
+    right: 150px;
+
 }

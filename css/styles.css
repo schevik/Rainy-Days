@@ -9,4 +9,17 @@ body {
     font-size: 16px;
     cursor: pointer;
     display: inline-block;
+    
+}
+
+.men {
+    display: inline-block;
+    position: absolute;
+    margin-bottom: auto;
+    right: auto;
+    background-color: cornflowerblue;
+    color: white;
+    text-transform: uppercase;
+    padding: 1em 1.5em;
+    
 }

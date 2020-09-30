@@ -1,3 +1,5 @@
-body {
-    background-color: honeydew;
+.gender {
+    width: auto;
+    font-size: large;
+    color: indigo;
 }

@@ -10,7 +10,7 @@ body {
 
 /* Make the indexpage responsive */
 .indexpage image {
-    width: 100%;
+    width: auto;
     height: auto;
 }
 /* Style the button and place it in the middle of the indexpage/image */

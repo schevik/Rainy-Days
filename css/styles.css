@@ -1,38 +1,3 @@
 body {
-    background-color: lightblue;
-}
-
-/* indexpage needed to position the button. Adjust the widt as needed */
-.indexpage {
-    position: relative;
-    width: 50%;
-}
-
-/* Make the indexpage responsive */
-.indexpage image {
-    display: block;
-    margin-right: auto;
-    width: 50%;
-    margin-left: auto;
-    
-}
-/* Style the button and place it in the middle of the indexpage/image */
-.indexpage .btnPush {
-    position: absolute;
-    top: 50%;
-    left: 50;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    background-color: white;
-    color: black;
-    font-size: 16px;
-    padding: 12px 24px;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-
-
-}
-.indexpage .btnPush:hover {
-    background-color: gray;
+    background-image: url("images/RainyDays_Logo.png");
 }

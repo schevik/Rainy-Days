@@ -1,3 +1,6 @@
 body {
     background-color: lightslategrey;
 }
+image.logo {
+    position: absolute;
+}

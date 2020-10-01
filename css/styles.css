@@ -10,8 +10,11 @@ body {
 
 /* Make the indexpage responsive */
 .indexpage image {
-    width: auto;
-    height: auto;
+    display: block;
+    margin-right: auto;
+        width: 50%;
+        margin-left: auto;
+    
 }
 /* Style the button and place it in the middle of the indexpage/image */
 .indexpage .btnPush {

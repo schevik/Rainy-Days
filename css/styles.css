@@ -1,3 +1,5 @@
 button {
-    position: absolute;
+    background-color: white;
+    color: black;
+    border: cornflowerblue;
 }

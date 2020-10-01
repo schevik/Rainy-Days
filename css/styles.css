@@ -4,4 +4,7 @@ button {
     border-color: lightskyblue;
     margin-left: 50%;
     margin-right: 50%;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    width: auto;
 }

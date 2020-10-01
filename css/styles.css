@@ -1,36 +1,30 @@
 body {
     background-color: lightblue;
 }
-image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
+
+/* indexpage needed to position the button. Adjust the widt as needed */
+.indexpage {
+    position: relative;
+    width: 50%;
 }
-.btn {
-    border left: 100px;
-    background-color: cornflowerblue;
-    padding: 14px 28px;
+
+/* Make the indexpage responsive */
+.indexpage image {
+    width: 100%;
+    height: auto;
+}
+/* Style the button and place it in the middle of the indexpage/image */
+.indexpage .btnPush {
+    position: absolute;
+    top: 50%;
+    left: 50;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
     font-size: 16px;
+    padding: 12px 24px;
+    border: none;
     cursor: pointer;
-    display: inline-block;
-    text-align: center;
-    
-}
-
-.men {
-    background-color: blue;
-    color: white;
-    text-align: center;
-}
-
-.woman {
-    background-color: violet;
-    color: white;
-
-}
-
-.children {
-    background-color: gray;
-    color: white;
+    border-radius: 5px;
 }

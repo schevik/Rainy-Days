@@ -12,4 +12,8 @@ img {
     margin-right: auto;
 }
 
+img .button {
+    margin-block-end: auto;
+}
+
     

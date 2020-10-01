@@ -1,6 +1,9 @@
 body {
     background-color: lightslategrey;
 }
-image.logo {
-    position: absolute;
+main {
+    background-image: url("..images/RainyDays_Logo.png");
+}
+
+    
 }

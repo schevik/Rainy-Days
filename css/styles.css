@@ -27,4 +27,9 @@ body {
     border: none;
     cursor: pointer;
     border-radius: 5px;
+
+
+}
+.indexpage .btnPush:hover {
+    background-color: black;
 }

@@ -13,5 +13,8 @@ li {
 a { 
     display: block;
     padding: 8px;
+    background-color: white;
+}
+ul {
     background-color: black;
 }

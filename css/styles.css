@@ -3,4 +3,7 @@ main {
     background-image: url("..images/RainyDays_Logo.png");
 }
 
+img {
+    display: block;
+}
     

@@ -12,8 +12,7 @@ img {
     margin-right: auto;
 }
 
-img .buttonrain {
-    margin-block-end: 10px;
+.buttonrain {
+    background: red;
 }
-
     

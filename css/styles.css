@@ -34,7 +34,7 @@
 
   body {
       background-image: url('../images/RainyDays_Logo.png');
-      background-size: cover;
+      background-size: auto;
       background-repeat: no-repeat;
   }
 

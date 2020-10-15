@@ -32,6 +32,13 @@
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 
+  body {
+      background-image: url('../images/RainyDays_Logo.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+  }
+
+
 
 
 

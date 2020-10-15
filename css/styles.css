@@ -55,7 +55,7 @@ body {
   }
   
   .dropdown-content a:hover {
-    background-color: #ddd;
+    background-color: gray;
   }
   
   .dropdown:hover .dropdown-content {

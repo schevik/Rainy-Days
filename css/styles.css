@@ -5,8 +5,9 @@ body {
   .navbar {
     overflow: hidden;
     background-color: #333;
-    margin-left: 0%;
-    margin-right: 0%;
+    margin-left: 50%;
+    margin-right: 50%;
+    border: gray;
   }
   
   .navbar a {

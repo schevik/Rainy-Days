@@ -67,3 +67,11 @@ body {
     margin-bottom: 1%;
     margin-left: auto;
 }
+#homebutton {
+    display: block;
+    background-color: white;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}

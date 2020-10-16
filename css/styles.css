@@ -70,7 +70,9 @@ img {
     margin-left: auto;
 }
 
-.fas-fa-home {
+#homebutton{
+    display: block;
     color: white;
-
 }
+
+

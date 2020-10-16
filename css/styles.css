@@ -114,6 +114,7 @@ img {
 
 .dropdown-content2 a:hover {
     background-color: white;
+    border-color: black;
 }
 
 .dropdown2:hover .dropdown-content2 {

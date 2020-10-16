@@ -100,6 +100,7 @@ img {
     display: block;
     text-align: left;
     border: black;
+    border-radius: 100%;
 }
 
 .dropdown2 .dropbtn2 {

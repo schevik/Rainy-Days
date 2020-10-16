@@ -119,3 +119,7 @@ img {
 .dropdown2:hover .dropdown-content2 {
     display: block;
 }
+
+.dropdown-content2 a {
+    padding-right: 0%;
+}

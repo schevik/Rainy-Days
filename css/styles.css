@@ -99,6 +99,7 @@ img {
     text-decoration: none;
     display: block;
     text-align: left;
+    border: black;
 }
 
 .dropdown2 .dropbtn2 {
@@ -114,8 +115,7 @@ img {
 
 .dropdown-content2 a:hover {
     background-color: white;
-    border-color: black;
-    border-radius: 100%;
+   
 }
 
 .dropdown2:hover .dropdown-content2 {

@@ -113,13 +113,10 @@ img {
 }
 
 .dropdown-content2 a:hover {
-    background-color: gray;
+    background-color: white;
 }
 
 .dropdown2:hover .dropdown-content2 {
     display: block;
 }
 
-.dropdown-content2 a {
-    padding-right: 0%;
-}

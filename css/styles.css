@@ -160,19 +160,9 @@ i:hover {
     background-color: gray;
 }
 
-.container {
+.news {
     display: flex;
 }
-
-main {
-    flex: 2;
-}
-
-aside {
-    flex: 1;
-}
-
-.home-section {
-    background: darkkhaki;
-    min-height: 100px;
+.items {
+    margin: 5px;
 }

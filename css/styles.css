@@ -22,6 +22,9 @@ i {
     margin-top: auto;
     margin-bottom: auto;
 } 
+i:hover {
+    background-color: lightblue;
+}
 
 .headernav {
     background-color: gray;

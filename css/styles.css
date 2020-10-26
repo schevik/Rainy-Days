@@ -9,6 +9,8 @@ body {
 }
 i {
     color: white;
+    margin-top: auto;
+    margin-bottom: auto;
 } 
 .headernav {
     background-color: gray;
@@ -24,7 +26,7 @@ i {
 }
 
 .headernav a:hover {
-    color:black;
+    color: white;
     cursor: pointer;
 }
 
@@ -34,6 +36,7 @@ i {
     padding: 10px;
     font-size: 15px;
     border: none;
+    
 }
 
 .dropdownmen {

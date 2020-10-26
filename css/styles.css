@@ -36,7 +36,7 @@ i:hover {
 
 .headernav {
     background-color: gray;
-    padding-bottom: 5px;
+    
     
 }
 
@@ -173,6 +173,6 @@ aside {
 }
 
 .home-section {
-    background: lightblue;
+    background: darkkhaki;
     min-height: 100px;
 }

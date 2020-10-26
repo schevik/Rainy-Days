@@ -4,3 +4,20 @@
    margin-right: auto;
 }
 
+.headernav {
+    background-color: gray;
+    overflow: hidden;
+}
+
+.headernav a {
+    float: left;
+    color: lightblue;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.headernav a:hover {
+    color: white;
+}
+

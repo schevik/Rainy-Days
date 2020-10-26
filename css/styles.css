@@ -25,6 +25,7 @@ i {
 
 .headernav a:hover {
     color: white;
+    cursor: pointer;
 }
 
 .dropbutton {

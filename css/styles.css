@@ -167,6 +167,7 @@ i:hover {
     width: 50px;
     background: lightblue;
     border-radius: 50%;
+    animation-direction: reverse;
 }
 
 @keyframes drop {

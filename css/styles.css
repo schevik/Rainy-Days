@@ -11,9 +11,7 @@ body {
 }
 i {
     color: white;
-    margin-top: auto;
-    margin-bottom: auto;
-    position: relative;
+    size: 25px;
 } 
 .headernav {
     background-color: gray;

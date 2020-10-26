@@ -64,6 +64,7 @@ i {
     text-decoration: none;
     display: block;
     font-size: 12px;
+    cursor: pointer;
 }
 
 .dropdownmen-content a:hover {
@@ -89,6 +90,7 @@ i {
     text-decoration: none;
     display: block;
     font-size: 12px;
+    cursor: pointer;
 }
 
 .dropdownwomen-content a:hover {
@@ -117,6 +119,7 @@ i {
     text-decoration: none;
     display: block;
     font-size: 12px;
+    cursor: pointer;
 }
 
 .dropdownkids-content a:hover {

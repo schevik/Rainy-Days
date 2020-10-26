@@ -166,3 +166,11 @@ i:hover {
 .items {
     margin: 5px;
 }
+.blankspace {
+    display: flex;
+}
+
+.blank {
+    color: lightgreen;
+    margin: 5px;
+}

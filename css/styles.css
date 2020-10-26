@@ -21,3 +21,33 @@
     color: white;
 }
 
+.dropbutton {
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+}
+
+.dropdownmen {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdownwomen {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdownkids {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdownmen-content {
+    display: none;
+    position: absolute;
+    background-color: gray;
+    min-width: 160px;
+    z-index: 1;
+}

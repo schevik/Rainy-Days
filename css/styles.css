@@ -169,6 +169,7 @@ i:hover {
 
 .info {
     display: flex;
+    background:gray;
 }
 
 .contactus {

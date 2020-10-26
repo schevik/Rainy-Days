@@ -12,7 +12,11 @@ body {
 i {
     color: white;
     size: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
 } 
+
 .headernav {
     background-color: gray;
     

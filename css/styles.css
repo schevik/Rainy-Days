@@ -162,6 +162,8 @@ i:hover {
 
 .news {
     display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
 .items {
     margin: 5px;

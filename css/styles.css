@@ -162,3 +162,16 @@ i:hover {
 .container {
     display: flex;
 }
+
+main {
+    flex: 2;
+}
+
+aside {
+    flex: 1;
+}
+
+.home-section {
+    background: lightgreen;
+    min-height: 100px;
+}

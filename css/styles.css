@@ -166,15 +166,18 @@ i:hover {
 .items {
     margin: 5px;
 }
-.blankspace {
+
+.info {
     display: flex;
 }
 
-.blank {
-    background: lightgreen;
+.contactus {
+    margin: 5px;
+}
+.aboutus {
     margin: 5px;
 }
 
-aside {
-    background: lightgreen;
+.payment {
+    margin: 5px;
 }

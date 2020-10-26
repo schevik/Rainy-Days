@@ -169,22 +169,22 @@ i:hover {
 
 .info {
     display: flex;
-    background:gray;
+    background: lightblue;
 }
 
 .contactus {
     margin: 50px;
     color: white;
-    background: lightblue;
+    
 }
 .aboutus {
     margin: 50px;
     color: white;
-    background: lightblue;
+    
 }
 
 .Payment {
     margin: 50px;
     color: white;
-    background: lightblue;
+
 }

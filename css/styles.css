@@ -172,12 +172,18 @@ i:hover {
 }
 
 .contactus {
-    margin: 20px;
+    margin: 50px;
+    color: white;
+    background: lightgreen;
 }
 .aboutus {
-    margin: 20px;
+    margin: 50px;
+    color: white;
+    background: lightgreen;
 }
 
 .Payment {
-    margin: 20px;
+    margin: 50px;
+    color: white;
+    background: lightgreen;
 }

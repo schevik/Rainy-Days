@@ -171,6 +171,6 @@ i:hover {
 }
 
 .blank {
-    color: lightgreen;
+    background: lightgreen;
     margin: 5px;
 }

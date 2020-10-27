@@ -231,6 +231,6 @@ ul.c {
     padding: 0px;
 }
 
-.footer-copyright {
-    text-align: left;
+ul.c .copy {
+    font-size: 20px;
 }

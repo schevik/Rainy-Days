@@ -207,6 +207,9 @@ ul.b {
 }
 
 ul.a {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
 
 }
 

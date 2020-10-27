@@ -6,6 +6,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     display: grid;
     grid-template-areas: 'myheader';
+    background-color: lightcoral;
 }
 .logo {
    display: block;

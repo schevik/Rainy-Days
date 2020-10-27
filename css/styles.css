@@ -196,6 +196,9 @@ i:hover {
     color: gray;
     margin-left: auto;
     margin-right: auto;
-    font-size: 25px;
     
+}
+
+.Payment .li {
+    font-size: 30px;
 }

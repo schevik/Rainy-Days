@@ -140,6 +140,7 @@ nav {
      background-color: gray;
      min-width: 160px;
      z-index: 1;
+     border-radius: 25px;
  }
  .dropdownmen-content a {
      color: white;

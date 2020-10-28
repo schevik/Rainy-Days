@@ -251,17 +251,17 @@ nav {
     border: none;
     
  }
- ul .payment {
+ ul.payment {
      margin-left: auto;
      margin-right: auto;
      list-style: none;
  }
- ul .info {
+ ul.info {
      margin-left: auto;
      margin-right: auto;
      list-style: none;
  }
- ul .contactus {
+ ul.contactus {
     margin-left: auto;
     margin-right: auto;
     list-style: none;

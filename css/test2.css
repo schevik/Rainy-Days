@@ -315,3 +315,6 @@ font-size: 200%;
      margin-top: auto;
      margin-bottom: auto;
  }
+ .product {
+     border-radius: 25px;
+ }

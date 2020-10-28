@@ -1,12 +1,12 @@
 @media (min-width: 600px) and (max-width: 1200px) {
-    
+
 }
 
 nav {
     min-height: 30px;
    
 }
-header, footer, aside {
+header, footer {
     min-height: 100px;
 }
 .home-section {
@@ -52,7 +52,7 @@ body {
     grid-template-areas: 
     'nav nav'
     'header header'
-    'main aside'
+    'main main'
     'footer footer'
     
 }
@@ -291,32 +291,7 @@ font-size: 200%;
      padding-bottom: 10px;
      border-radius: 30px;
  }
- aside {
-    display: grid;
-    grid-template-areas: 
-    'aside-two'
-    'aside-one'
- }
- .about {
-     margin-left: auto;
-     margin-right: auto;
-     margin-top: auto;
-     margin-top: auto;
-     background: gray;
-     border-radius: 25px;
-     font-size: 125%;
-     color: lightblue;
-     flex-flow: row;
-     
- }
- .productaside {
-     background: lightblue;
-     border-radius: 25px;
-     margin-left: auto;
-     margin-right: auto;
-     margin-top: auto;
-     margin-bottom: auto;
- }
+ 
  .home-section img {
      border-radius: 25px;
  }

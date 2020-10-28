@@ -210,4 +210,8 @@ nav {
  .dropdownkids:hover .dropbutton {
      background-color: gray;
  }
+
+ .headernav2 {
+     float: right;
+ }
  

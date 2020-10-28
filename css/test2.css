@@ -308,4 +308,8 @@ font-size: 200%;
  .productaside {
      background: lightblue;
      border-radius: 25px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: auto;
+     margin-bottom: auto;
  }

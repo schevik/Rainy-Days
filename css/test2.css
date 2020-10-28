@@ -86,8 +86,7 @@ nav {
      margin-top: auto;
      margin-bottom: auto;
  } 
- i:hover {
-     background-color: lightblue;
+ 
  }
  .headernav {
      background-color: gray;
@@ -249,9 +248,8 @@ font-size: 200%;
  i.fab.fa-cc-apple-pay {
     font-size: 200%;
  }
- i.fab.fa-cc-apple-pay:hover {
-     background-color: none;
- }
+ 
+ 
  i.fab.fa-facebook {
     font-size: 200%;
  }
@@ -264,4 +262,14 @@ font-size: 200%;
  }
  header {
      background: lightblue;
+ }
+ i.fas.fa-sign-in-alt:hover {
+     background-color: lightblue;
+
+ }
+ i.fasfa-shopping-cart:hover {
+     background-color: lightblue;
+ }
+ i.fas.fa-home:hover {
+     background-color: lightblue;
  }

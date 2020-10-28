@@ -259,4 +259,6 @@ font-size: 200%;
      text-decoration: white underline;
     
  }
- 
+ header {
+     align-content: center;
+ }

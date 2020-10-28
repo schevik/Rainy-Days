@@ -235,8 +235,9 @@ nav {
     list-style: none;
    
  }
- .c {
+.c {
     list-style: none;
+    
     
  }
  footer .payment {
@@ -253,4 +254,6 @@ nav {
     margin-right: auto;
  }
 
- 
+ i .c {
+     font-size: 50%;
+ }

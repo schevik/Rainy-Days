@@ -315,24 +315,6 @@ font-size: 200%;
      margin-top: auto;
      margin-bottom: auto;
  }
- .home-section:nth-child(1) {
+ .img .home-section {
      border-radius: 25px;
- }
- .home-section:nth-child(2) {
-     border-radius: 25px; 
-}
- .home-section:nth-child(3) {
-    border-radius: 25px; 
- }
- .home-section:nth-child(4) {
-    border-radius: 25px; 
- }
- .home-section:nth-child(5) {
-    border-radius: 25px; 
- }
- .home-section:nth-child(6) {
-    border-radius: 25px; 
- }
- .home-section:nth-child(7) {
-    border-radius: 25px; 
  }

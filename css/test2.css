@@ -254,17 +254,18 @@ nav {
  ul.payment {
      margin-left: auto;
      margin-right: auto;
-     list-style: none;
+     
  }
  ul.info {
      margin-left: auto;
      margin-right: auto;
-     list-style: none;
+     
  }
  ul.contactus {
     margin-left: auto;
     margin-right: auto;
-    list-style: none;
+    font-size: 150%;
+    
  }
  li {
      list-style: none;

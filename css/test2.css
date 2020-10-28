@@ -109,7 +109,6 @@ nav {
  }
  .headernav a:hover {
      color: white;
-     background-color: lightblue;
      cursor: pointer;
  }
  .dropbutton {
@@ -119,6 +118,9 @@ nav {
      font-size: 15px;
      border: lightblue;
      border-radius: 5%;
+ }
+ .dropbutton a:hover {
+     background-color: lightblue;
  }
  .dropdownmen {
      position: relative;

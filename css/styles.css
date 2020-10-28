@@ -286,3 +286,7 @@ span.pswrd {
 .containerlogin {
    display: inline-block;
 }
+
+.pswrd {
+    float: left;
+}

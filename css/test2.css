@@ -6,6 +6,7 @@ nav,header,main,aside,footer,section {
 
 nav {
     min-height: 30px;
+    background: lightslategray;
 }
 
 header, footer, aside {

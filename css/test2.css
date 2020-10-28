@@ -279,7 +279,9 @@ font-size: 200%;
 
  .logo {
      background-color: white;
-     border-left: auto;
-     border-right: auto;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 10px;
+     padding-bottom: 10px;
      
  }

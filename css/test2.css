@@ -106,11 +106,12 @@ nav {
      text-align: center;
      text-decoration: none;
      font-size: 25px;
-     border-radius: 25px;
+     
  }
  .headernav a:hover {
      color: white;
      cursor: pointer;
+     border-radius: 25px;
  }
  .dropbutton {
      background-color: gray;

@@ -152,6 +152,9 @@ nav {
  .dropdownmen-content a:hover {
      background-color: lightblue;
  }
+ .dropdownmen-content:hover {
+     background-color: lightblue;
+ }
  .dropdownmen:hover .dropdownmen-content {
      display: block;
  }

@@ -41,6 +41,7 @@ body {
     grid-gap: 10px;
    background-image: url(/images/hikepicture.jpg);
    background-repeat: no-repeat;
+   background-size: cover;
     grid-template-areas: 
     'nav nav'
     'header header'

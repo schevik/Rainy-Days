@@ -96,7 +96,7 @@ nav {
      border-radius: 25px;
  }
 .dropdownmen:hover {
-    background-color: lightblue;
+    color: lightblue;
 }
  .headernav a {
      float: left;

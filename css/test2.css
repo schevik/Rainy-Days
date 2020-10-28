@@ -1,17 +1,14 @@
 
-nav,header,main,aside,footer,section {
-    background: lightblue;
-    border: 2px solid lightgray;
-}
+
+
 nav {
     min-height: 30px;
-    background: gray;
+   
 }
 header, footer, aside {
     min-height: 100px;
 }
 .home-section {
-    background: lightgreen;
     min-height: 100px;
 }
 nav {grid-area: nav; }

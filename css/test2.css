@@ -291,6 +291,7 @@ font-size: 200%;
  }
  aside {
     display: grid;
+    border-radius: 25px;
     grid-template-areas: 
     'aside-two'
     'aside-one'

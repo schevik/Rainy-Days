@@ -226,4 +226,27 @@ nav {
  .headernav2 {
      float: right;
  }
+
+ .a {
+     list-style: none;
+     margin-right: auto;
+     margin-left: auto;
+     margin-top: auto;
+     margin-bottom: auto;
+ }
+ .b {
+    list-style: none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+ }
+ .c {
+    list-style: none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+ }
+
  

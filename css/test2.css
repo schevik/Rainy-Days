@@ -41,11 +41,13 @@ footer {
 body {
     display: grid;
     grid-gap: 10px;
+    background: lightgreen;
     grid-template-areas: 
     'nav nav'
     'header header'
     'main aside'
     'footer footer'
+    
 }
 main {
     display: grid;

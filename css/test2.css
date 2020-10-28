@@ -292,7 +292,6 @@ font-size: 200%;
  }
  aside {
     display: grid;
-    border-radius: 25px;
     grid-template-areas: 
     'aside-two'
     'aside-one'
@@ -303,8 +302,10 @@ font-size: 200%;
      margin-top: auto;
      margin-top: auto;
      background: gray;
+     border-radius: 25px;
      
  }
  .productaside {
      background: lightblue;
+     border-radius: 25px;
  }

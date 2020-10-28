@@ -1,0 +1,22 @@
+nav, header, main, aside, footer, section {
+    background: lightblue;
+    border: 2px solid lightgray;
+}
+
+nav {
+    min-height: 30px;
+}
+
+.homesection {
+    background: lightgreen;
+    min-height: 100px;
+}
+.container {
+    display: flex;
+}
+main {
+    flex: 2;
+}
+aside {
+    flex: 1;
+}

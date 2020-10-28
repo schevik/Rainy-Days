@@ -244,6 +244,9 @@ nav {
  .a li {
      font-size: 50%;
  }
+ .a i {
+     font-size: 150%;
+ }
  footer .payment {
      margin-left: auto;
      margin-right: auto;

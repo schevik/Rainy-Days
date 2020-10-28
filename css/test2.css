@@ -228,41 +228,43 @@ nav {
      float: right;
  }
 
- .a {
-     list-style: none;
-    font-size: 200%;
- }
- .b {
-    list-style: none;
-   font-size: 200%;
- }
-.c {
-    list-style: none;
-    font-size: 200%;
  
-    
- }
- .a li {
-     font-size: 50%;
- }
- .a i {
-     font-size: 150%;
- }
- footer .payment {
+
+ 
+ 
+ .payment {
      margin-left: auto;
      margin-right: auto;
      border: none;
+     
  }
- footer .contactus {
+     .contactus {
     margin-left: auto;
     margin-right: auto;
     border: none;
+    
  }
 
- footer .info {
+ .info {
     margin-left: auto;
     margin-right: auto;
     border: none;
+    
+ }
+ ul .payment {
+     margin-left: auto;
+     margin-right: auto;
+     list-style: none;
+ }
+ ul .info {
+     margin-left: auto;
+     margin-right: auto;
+     list-style: none;
+ }
+ ul .contactus {
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
  }
 
  

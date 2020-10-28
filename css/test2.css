@@ -148,6 +148,7 @@ nav {
      display: block;
      font-size: 12px;
      cursor: pointer;
+     border-radius: 25px;
  }
  .dropdownmen-content a:hover {
      background-color: lightblue;
@@ -196,6 +197,7 @@ nav {
      background-color: gray;
      min-width: 160px;
      z-index: 1;
+     border-radius: 25px;
  }
  .dropdownkids-content a {
      color: white;
@@ -204,15 +206,18 @@ nav {
      display: block;
      font-size: 12px;
      cursor: pointer;
+     border-radius: 25px;
  }
  .dropdownkids-content a:hover {
      background-color: lightblue;
+     border-radius: 25px;
  }
  .dropdownkids:hover .dropdownkids-content {
      display: block;
  }
  .dropdownkids:hover .dropbutton {
-     background-color: gray;
+     background-color: lightblue;
+     border-radius: 25px;
  }
  .headernav2 {
      float: right;

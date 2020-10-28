@@ -175,9 +175,11 @@ nav {
      display: block;
      font-size: 12px;
      cursor: pointer;
+     border-radius: 25px;
  }
  .dropdownwomen-content a:hover {
      background-color: lightblue;
+     border-radius: 25px;
  }
  .dropdownwomen:hover .dropdownwomen-content {
      display: block;

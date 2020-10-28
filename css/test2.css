@@ -119,7 +119,7 @@ nav {
      border: lightblue;
      border-radius: 5%;
  }
- .dropbutton a:hover {
+ .dropbutton:hover {
      background-color: lightblue;
  }
  .dropdownmen {

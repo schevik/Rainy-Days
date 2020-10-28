@@ -22,9 +22,6 @@ main {grid-area: main; }
 .home-section:nth-child(5){grid-area: home-section-five;}
 .home-section:nth-child(6){grid-area: home-section-six;}
 .home-section:nth-child(7){grid-area: home-section-seven;}
-aside {grid-area: aside; }
-.about {grid-area: aside-one;}
-.productaside {grid-area: aside-two;}
 footer {grid-area: footer; }
 .payment {grid-area: footer-one;}
 .contactus {grid-area: footer-two;}

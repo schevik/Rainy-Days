@@ -250,7 +250,7 @@ font-size: 200%;
  i.fab.fa-facebook {
     font-size: 200%;
  }
- .info #text {
+ #text .info {
      font-style: italic;
  }
  

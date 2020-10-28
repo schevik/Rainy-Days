@@ -7,6 +7,10 @@ nav {
     min-height: 30px;
 }
 
+header, footer, aside {
+    min-height: 100px;
+}
+
 .homesection {
     background: lightgreen;
     min-height: 100px;

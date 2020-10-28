@@ -238,8 +238,11 @@ nav {
 .c {
     list-style: none;
     font-size: 200%;
+ 
     
-    
+ }
+ .a li {
+     font-size: 50%;
  }
  footer .payment {
      margin-left: auto;

@@ -242,7 +242,7 @@ footer {
 }
 
 form {
-    border: 4px lightgreen;
+    display: inline-block
 }
 
 input[type=text], input[type=password] {
@@ -281,7 +281,4 @@ span.pswrd {
 }
 .containerlogin {
    display: inline-block;
-}
-.containerlogin2 {
-    display: inline-block;
 }

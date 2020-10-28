@@ -20,3 +20,12 @@ header {grid-area: header; }
 main {grid-area: main; }
 aside {grid-area: aside; }
 footer {grid-area: footer; }
+
+body {
+    display: grid;
+    grid-template-areas: 
+    'nav nav'
+    'header header'
+    'main aside'
+    'footer'
+}

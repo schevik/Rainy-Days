@@ -280,5 +280,5 @@ span.pswrd {
     padding-top: 16px;
 }
 .containerlogin {
-    padding: auto;
+   display: inline-block;
 }

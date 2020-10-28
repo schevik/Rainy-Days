@@ -242,7 +242,10 @@ footer {
 }
 
 form {
-    display: inline-block
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 input[type=text], input[type=password] {
@@ -261,7 +264,8 @@ input[type=text], input[type=password] {
     margin: 8px;
     border: none;
     cursor: pointer;
-    width: 100%;
+    
+
 }
 
 button:hover {

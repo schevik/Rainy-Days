@@ -34,6 +34,7 @@ footer {grid-area: footer; }
 footer {
     display: grid;
     background: gray;
+    border-radius: 25px;
     grid-gap: 40px;
     grid-template-areas:
     'footer-one footer-two footer-three'

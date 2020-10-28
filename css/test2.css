@@ -264,7 +264,6 @@ font-size: 200%;
     
  }
  header {
-     background: lightblue;
      display: grid;
  }
  i.fas.fa-sign-in-alt:hover {

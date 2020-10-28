@@ -280,8 +280,8 @@ span.pswrd {
     padding-top: 16px;
 }
 .containerlogin {
-   display: inline-flex;
+   display: inline-block;
 }
 .containerlogin2 {
-    display: inline-flex;
+    display: inline-block;
 }

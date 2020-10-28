@@ -54,7 +54,7 @@ body {
 }
 main {
     display: grid;
-    
+    background: lightblue;
     grid-gap: 10px;
     padding: 10px;
     grid-template-areas: 
@@ -288,4 +288,10 @@ font-size: 200%;
  }
  aside {
      background: lightblue;
+ }
+ .about {
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: auto;
+     margin-top: auto;
  }

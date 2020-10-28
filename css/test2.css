@@ -252,7 +252,8 @@ font-size: 200%;
     font-size: 200%;
  }
  .info {
-     font-style: bold italic;
+     font-style: italic;
+     font-weight: bold;
      font-size: 90%;
      text-decoration: white underline;
  }

@@ -237,6 +237,7 @@ nav {
  }
 .c {
     list-style: none;
+    font-size: 50%;
     
     
  }
@@ -254,6 +255,4 @@ nav {
     margin-right: auto;
  }
 
- i .c {
-     font-size: 50%;
- }
+ 

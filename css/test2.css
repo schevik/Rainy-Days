@@ -265,7 +265,6 @@ font-size: 200%;
  }
  header {
      background: lightblue;
-     background-size: 50%;
      display: grid;
  }
  i.fas.fa-sign-in-alt:hover {
@@ -277,4 +276,8 @@ font-size: 200%;
  }
  i.fas.fa-home:hover {
      background-color: lightblue;
+ }
+
+ .logo {
+     color: blue;
  }

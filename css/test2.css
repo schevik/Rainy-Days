@@ -249,6 +249,9 @@ font-size: 200%;
  i.fab.fa-cc-apple-pay {
     font-size: 200%;
  }
+ i.fab.fa-cc-apple-pay:hover {
+     background-color: none;
+ }
  i.fab.fa-facebook {
     font-size: 200%;
  }

@@ -3,16 +3,13 @@ nav,header,main,aside,footer,section {
     background: lightblue;
     border: 2px solid lightgray;
 }
-
 nav {
     min-height: 30px;
     background: lightslategray;
 }
-
 header, footer, aside {
     min-height: 100px;
 }
-
 .home-section {
     background: lightgreen;
     min-height: 100px;
@@ -40,10 +37,7 @@ footer {
     grid-gap: 40px;
     grid-template-areas:
     'footer-one footer-two footer-three'
-    
 }
-
-
 body {
     display: grid;
     grid-gap: 10px;
@@ -62,7 +56,6 @@ main {
     'home-section-four home-section-four home-section-four'
     'home-section-five home-section-six home-section-seven'
 }
-
 nav {
     display: grid;
     grid-gap: 10px;
@@ -70,7 +63,6 @@ nav {
     grid-template-areas:
     'nav1'
 }
-
 .logo {
     display: block;
     margin-left: auto;
@@ -78,10 +70,7 @@ nav {
     width: 300px;
     height: 200px;
     padding-bottom: 5px;
-    
- 
  }
- 
  i {
      color: white;
      size: 25px;
@@ -97,13 +86,9 @@ nav {
  i:hover {
      background-color: lightblue;
  }
- 
  .headernav {
      background-color: gray;
-     
-     
  }
- 
  .headernav a {
      float: left;
      color: lightblue;
@@ -111,12 +96,10 @@ nav {
      text-decoration: none;
      font-size: 25px;
  }
- 
  .headernav a:hover {
      color: white;
      cursor: pointer;
  }
- 
  .dropbutton {
      background-color:lightblue;
      color: white;
@@ -124,24 +107,19 @@ nav {
      font-size: 15px;
      border: lightblue;
      border-radius: 5%;
-     
  }
- 
  .dropdownmen {
      position: relative;
      display: inline-block;
  }
- 
  .dropdownwomen {
      position: relative;
      display: inline-block;
  }
- 
  .dropdownkids {
      position: relative;
      display: inline-block;
  }
- 
  .dropdownmen-content {
      display: none;
      position: absolute;
@@ -157,7 +135,6 @@ nav {
      font-size: 12px;
      cursor: pointer;
  }
- 
  .dropdownmen-content a:hover {
      background-color: lightblue;
  }
@@ -167,7 +144,6 @@ nav {
  .dropdownmen:hover .dropbutton {
      background-color: gray;
  }
- 
  .dropdownwomen-content {
      display: none;
      position: absolute;
@@ -183,19 +159,15 @@ nav {
      font-size: 12px;
      cursor: pointer;
  }
- 
  .dropdownwomen-content a:hover {
      background-color: lightblue;
  }
- 
  .dropdownwomen:hover .dropdownwomen-content {
      display: block;
  }
- 
  .dropdownwomen:hover .dropbutton {
      background-color: gray;
  }
- 
  .dropdownkids-content {
      display: none;
      position: absolute;
@@ -203,7 +175,6 @@ nav {
      min-width: 160px;
      z-index: 1;
  }
- 
  .dropdownkids-content a {
      color: white;
      padding: 12px 16px;
@@ -212,60 +183,45 @@ nav {
      font-size: 12px;
      cursor: pointer;
  }
- 
  .dropdownkids-content a:hover {
      background-color: lightblue;
  }
  .dropdownkids:hover .dropdownkids-content {
      display: block;
  }
- 
  .dropdownkids:hover .dropbutton {
      background-color: gray;
  }
-
  .headernav2 {
      float: right;
  }
-
- 
-
- 
- 
  .payment {
      margin-left: auto;
      margin-right: auto;
      border: none;
-     
  }
      .contactus {
     margin-left: auto;
     margin-right: auto;
     border: none;
-    
  }
-
  .info {
     margin-left: auto;
     margin-right: auto;
     border: none;
-    
  }
  ul.payment {
      margin-left: auto;
      margin-right: auto;
-     
  }
  ul.info {
      margin-left: auto;
      margin-right: auto;
-     
  }
  ul.contactus {
     margin-left: auto;
     margin-right: auto;
     font-size: 150%;
-    
  }
  li {
      list-style: none;
@@ -279,7 +235,6 @@ nav {
  i.fas.fa-envelope {
 font-size: 200%;
  }
- 
  i.fab.fa-twitter {
     font-size: 200%;
  }
@@ -292,7 +247,11 @@ font-size: 200%;
  i.fab.fa-cc-apple-pay {
     font-size: 200%;
  }
-
  i.fab.fa-facebook {
     font-size: 200%;
+ }
+ .contactus h1 {
+     font-size: 50%;
+     margin-right: auto;
+     margin-left: auto;
  }

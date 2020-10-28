@@ -270,5 +270,8 @@ nav {
  li {
      list-style: none;
  }
+ i.fas.fa-map-pin {
+     font-size: 150%;
+ }
 
  

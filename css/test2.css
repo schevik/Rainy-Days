@@ -23,6 +23,7 @@ footer {grid-area: footer; }
 
 body {
     display: grid;
+    grid-gap: 10px;
     grid-template-areas: 
     'nav nav'
     'header header'

@@ -266,5 +266,8 @@ nav {
     margin-right: auto;
     list-style: none;
  }
+ li {
+     list-style: none;
+ }
 
  

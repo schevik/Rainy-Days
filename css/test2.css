@@ -251,15 +251,18 @@ nav {
  footer .payment {
      margin-left: auto;
      margin-right: auto;
+     border: none;
  }
  footer .contactus {
     margin-left: auto;
     margin-right: auto;
+    border: none;
  }
 
  footer .info {
     margin-left: auto;
     margin-right: auto;
+    border: none;
  }
 
  

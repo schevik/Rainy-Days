@@ -229,24 +229,28 @@ nav {
 
  .a {
      list-style: none;
-     margin-right: auto;
-     margin-left: auto;
-     margin-top: auto;
-     margin-bottom: auto;
+    
  }
  .b {
     list-style: none;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+   
  }
  .c {
     list-style: none;
-    margin-right: auto;
+    
+ }
+ footer .payment {
+     margin-left: auto;
+     margin-right: auto;
+ }
+ footer .contactus {
     margin-left: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-right: auto;
+ }
+
+ footer .info {
+    margin-left: auto;
+    margin-right: auto;
  }
 
  

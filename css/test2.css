@@ -185,7 +185,8 @@ nav {
      display: block;
  }
  .dropdownwomen:hover .dropbutton {
-     background-color: gray;
+     background-color: lightblue;
+     border-radius: 25px;
  }
  .dropdownkids-content {
      display: none;

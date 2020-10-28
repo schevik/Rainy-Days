@@ -31,6 +31,7 @@ footer {grid-area: footer; }
 
 footer {
     display: grid;
+    background: gray;
     grid-gap: 40px;
     grid-template-areas:
     'footer-one footer-two footer-three'
@@ -257,5 +258,5 @@ font-size: 200%;
     
  }
  header {
-     background: gray;
+     background: lightblue;
  }

@@ -51,6 +51,7 @@ body {
 }
 main {
     display: grid;
+    background-image: url("/images/hikepicture.jpg");
     grid-gap: 10px;
     padding: 10px;
     grid-template-areas: 

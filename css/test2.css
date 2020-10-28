@@ -17,6 +17,8 @@ header, footer, aside {
     min-height: 100px;
 }
 nav {grid-area: nav; }
+.headernav {grid-area: nav1;}
+.headernav2 {grid-area: nav2;}
 header {grid-area: header; }
 main {grid-area: main; }
 .home-section:nth-child(1){grid-area: home-section-one;}
@@ -46,6 +48,14 @@ main {
     'home-section-one home-section-two home-section-three'
     'home-section-four home-section-four home-section-four'
     'home-section-five home-section-six home-section-seven'
+}
+
+nav {
+    display: grid;
+    grid-gap: 10px;
+    padding: 10px;
+    grid-template-areas:
+    'nav1 nav2'
 }
 
 .logo {

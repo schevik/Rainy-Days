@@ -221,16 +221,15 @@ nav {
  ul.contactus {
     margin-left: auto;
     margin-right: auto;
-    font-size: 150%;
  }
  li {
-     list-style: none;
+      list-style: none;
  }
  i.fas.fa-map-pin {
-     font-size: 150%;
+     font-size: 200%;
  }
  i.fab.fa-twitter {
-     font-size: 150%;
+     font-size: 200%;
  }
  i.fas.fa-envelope {
 font-size: 200%;

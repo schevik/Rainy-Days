@@ -240,3 +240,49 @@ ul.c .copy {
 footer {
     margin: 0%;
 }
+
+form {
+    border: 4px lightgreen;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px gray;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: lightgreen;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+.cancelbutton {
+    width: auto;
+    padding: 10px 18px;
+    background-color: lightgray;
+}
+
+.imagecontainer {
+    text-align: center;
+    margin: auto;
+}
+
+span.pswrd {
+    float: right;
+    padding-top: 16px;
+}
+.container {
+    padding: 16px;
+}

@@ -300,7 +300,4 @@ font-size: 200%;
  .home-section img {
      border-radius: 25px;
  }
- :hover {
-     border-radius: 25px;
-     background-color: lightblue;
- }
+ 

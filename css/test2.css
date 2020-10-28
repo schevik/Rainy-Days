@@ -206,7 +206,7 @@ nav {
      margin-right: auto;
      border: none;
  }
-     .contactus {
+ .contactus {
     margin-left: auto;
     margin-right: auto;
     border: none;
@@ -262,7 +262,7 @@ font-size: 200%;
      font-weight: bold;
      font-size: 90%;
      text-decoration: white underline;
-    
+     color: lightblue;
  }
  header {
      display: grid;

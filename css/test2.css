@@ -92,7 +92,7 @@ nav {
  .fas.fa-home:hover {
      border-radius: 25px;
  }
- .headernav2:hover {
+ .headernav2 a:hover {
      border-radius: 25px;
  }
  

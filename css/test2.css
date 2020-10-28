@@ -89,7 +89,9 @@ nav {
      margin-top: auto;
      margin-bottom: auto;
  } 
- 
+ .fas.fa-home:hover {
+     background-color: lightblue;
+ }
  
  .headernav {
      background-color: gray;
@@ -111,7 +113,6 @@ nav {
  .headernav a:hover {
      color: white;
      cursor: pointer;
-     border-radius: 25px;
  }
  .dropbutton {
      background-color: gray;

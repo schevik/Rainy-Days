@@ -254,7 +254,7 @@ input[type=text], input[type=password] {
     box-sizing: border-box;
 }
 
-button {
+ button {
     background-color: lightgreen;
     color: white;
     padding: 14px 20px;
@@ -283,6 +283,6 @@ span.pswrd {
     float: right;
     padding-top: 16px;
 }
-.container {
+.containerlogin {
     padding: 16px;
 }

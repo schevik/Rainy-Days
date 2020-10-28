@@ -151,6 +151,7 @@ nav {
  }
  .dropdownmen-content a:hover {
      background-color: lightblue;
+     border-radius: 25px;
  }
  
  
@@ -158,7 +159,8 @@ nav {
      display: block;
  }
  .dropdownmen:hover .dropbutton {
-     background-color: gray;
+     background-color:lightblue;
+     border-radius: 25px;
  }
  .dropdownwomen-content {
      display: none;

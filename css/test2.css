@@ -31,6 +31,17 @@ main {grid-area: main; }
 .home-section:nth-child(7){grid-area: home-section-seven;}
 aside {grid-area: aside; }
 footer {grid-area: footer; }
+.payment {grid-area: footer-one;}
+.contactus {grid-area: footer-two;}
+.info {grid-area: footer-three;}
+
+footer {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas:
+    'footer-one footer-two footer-three'
+}
+
 
 body {
     display: grid;

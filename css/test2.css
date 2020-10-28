@@ -92,8 +92,12 @@ nav {
  .fas.fa-home:hover {
      border-radius: 25px;
  }
- .headernav2 a:hover {
+ .fas.fa-sign-in-alt:hover {
      border-radius: 25px;
+ }
+ .fas.fa-shopping-cart:hover {
+     border-radius: 25px;
+ }
  }
  
  .headernav {

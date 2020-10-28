@@ -90,7 +90,7 @@ nav {
      margin-bottom: auto;
  } 
  .fas.fa-home:hover {
-     background-color: lightblue;
+     border-radius: 25px;
  }
  
  .headernav {

@@ -40,6 +40,7 @@ body {
     display: grid;
     grid-gap: 10px;
    background-image: url(/images/hikepicture.jpg);
+   background-repeat: no-repeat;
     grid-template-areas: 
     'nav nav'
     'header header'

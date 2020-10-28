@@ -252,5 +252,6 @@ font-size: 200%;
  .info {
      font-style: italic;
      font-size: 90%;
+     text-decoration: white underline;
  }
  

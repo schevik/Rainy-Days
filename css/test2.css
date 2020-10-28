@@ -5,7 +5,7 @@ nav,header,main,aside,footer,section {
 }
 nav {
     min-height: 30px;
-    background: lightslategray;
+    background: gray;
 }
 header, footer, aside {
     min-height: 100px;

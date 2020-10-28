@@ -24,6 +24,8 @@ main {grid-area: main; }
 .home-section:nth-child(6){grid-area: home-section-six;}
 .home-section:nth-child(7){grid-area: home-section-seven;}
 aside {grid-area: aside; }
+.about {grid-area: aside-one;}
+.productaside {grid-area: aside-two;}
 footer {grid-area: footer; }
 .payment {grid-area: footer-one;}
 .contactus {grid-area: footer-two;}
@@ -287,7 +289,10 @@ font-size: 200%;
      border-radius: 30px;
  }
  aside {
-    
+    display: grid;
+    grid-template-areas: 
+    'aside-two'
+    'aside-one'
  }
  .about {
      margin-left: auto;

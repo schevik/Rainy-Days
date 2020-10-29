@@ -337,4 +337,12 @@ nav {
  .home-section img {
      border-radius: 25px;
  }
- 
+ nav {
+    display: none;
+}
+#hamburger-menu {
+    display: none;
+}
+#hamburger-menu:checked ~ nav {
+    display: block;
+}

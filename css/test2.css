@@ -351,4 +351,5 @@ i.fas.fa-bars:hover {
     background-color: lightblue;
 }
 #hamburger-menu:hover ~ nav {
-    display:
+    display: block;
+}

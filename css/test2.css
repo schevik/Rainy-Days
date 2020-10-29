@@ -312,9 +312,7 @@ nav {
  }
  header {
      display: grid;
-     grid-template-areas: 
-     'header'
-     'header-two'
+     
  }
  i.fas.fa-sign-in-alt:hover {
      background-color: lightblue;

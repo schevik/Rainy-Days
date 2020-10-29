@@ -348,5 +348,6 @@ nav {
 }
 i.fas.fa-bars {
     background-color: gray;
-    border-radius: 30px;
+    border-radius: 25px;
+    font-size: 25px;
 }

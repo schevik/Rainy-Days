@@ -341,6 +341,11 @@ nav {
     display: none;
 }
 
+#hamburger-menu {
+    display: none;
+}
+
+
 
 i.fas.fa-bars {
     background-color: gray;

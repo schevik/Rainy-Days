@@ -55,7 +55,7 @@ main {
     display: grid;
     border-radius: 25px;
     background: lightblue;
-    grid-gap: 25px;
+    grid-gap: 40px;
     padding: 10px;
     grid-template-areas: 
     'home-section-one home-section-two home-section-three'

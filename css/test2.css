@@ -47,7 +47,7 @@ body {
     grid-template-areas: 
     'nav nav'
     'header header'
-    'main main'
+    'aside main main aside'
     'footer footer'
     
 }
@@ -270,7 +270,7 @@ nav {
      font-size: 200%;
  }
  i.fas.fa-envelope {
-font-size: 200%;
+     font-size: 200%;
  }
  i.fas.fa-envelope:hover {
      background-color: lightblue;

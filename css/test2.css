@@ -272,9 +272,18 @@ nav {
  i.fas.fa-envelope {
 font-size: 200%;
  }
+ i.fas.fa-envelope:hover {
+     background-color: lightblue;
+     border-radius: 25px;
+ }
  i.fab.fa-twitter {
     font-size: 200%;
  }
+ i.fab.fa-twitter:hover {
+     background-color: lightblue;
+     border-radius: 25px;
+ }
+
  i.fab.fa-cc-visa {
     font-size: 200%;
  }

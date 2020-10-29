@@ -343,9 +343,7 @@ nav {
 #hamburger-menu {
     display: none;
 }
-#hamburger-menu:checked ~ nav {
-    display: block;
-}
+
 i.fas.fa-bars {
     background-color: gray;
     border-radius: 25px;

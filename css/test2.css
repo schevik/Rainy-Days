@@ -355,6 +355,6 @@ i.fas.fa-bars {
 i.fas.fa-bars:hover {
     background-color: lightblue;
 }
-#hamburger-menu:hover ~ .headernav, .headernav2 {
-    display: block;
+#hamburger-menu:hover ~ nav {
+    display: inline;
 }

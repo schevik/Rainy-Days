@@ -47,7 +47,7 @@ body {
     grid-template-areas: 
     'nav nav'
     'header header'
-    'aside main main aside'
+    'main main'
     'footer footer'
     
 }

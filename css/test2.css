@@ -351,3 +351,6 @@ i.fas.fa-bars {
     border-radius: 25px;
     font-size: 25px;
 }
+i.fas.fa-bars:hover {
+    background-color: lightblue;
+}

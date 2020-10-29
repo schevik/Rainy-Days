@@ -346,3 +346,6 @@ nav {
 #hamburger-menu:checked ~ nav {
     display: block;
 }
+i.fas.fa-bars {
+    background-color: gray;
+}

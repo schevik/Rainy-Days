@@ -289,6 +289,10 @@ font-size: 200%;
  i.fab.fa-facebook {
     font-size: 200%;
  }
+ i.fab.fa-facebook:hover {
+     background-color: lightblue;
+     border-radius: 25px;
+ }
  .info {
      font-style: italic;
      font-weight: bold;

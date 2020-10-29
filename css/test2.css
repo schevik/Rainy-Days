@@ -340,9 +340,7 @@ nav {
  nav {
     display: none;
 }
-#hamburger-menu {
-    display: none;
-}
+
 
 i.fas.fa-bars {
     background-color: gray;
@@ -353,5 +351,5 @@ i.fas.fa-bars:hover {
     background-color: lightblue;
 }
 #hamburger-menu:hover ~ nav {
-    display: block;
+    display:
 }

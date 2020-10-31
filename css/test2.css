@@ -353,7 +353,9 @@ i.fas.fa-bars:hover {
 }
 
 
-
+.home-section:nth-child(4) {
+    background-color: lightblue;
+}
 
 
 * {box-sizing: border-box}

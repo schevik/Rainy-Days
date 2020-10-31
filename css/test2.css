@@ -77,8 +77,10 @@ nav {
     display: none;
 }
 #hamburger-menu:checked ~ .headernav {
-    visibility: visible;
+    display: none;
 }
+
+
 .logo {
     display: block;
     margin-left: auto;

@@ -76,8 +76,8 @@ nav {
 #hamburger-menu {
     display: none;
 }
-#hamburger-menu:checked ~ .headernav {
-    display: inline;
+#hamburger-menu:checked .headernav {
+    display: block;
 }
 .logo {
     display: block;

@@ -67,6 +67,7 @@ nav {
     display: grid;
     grid-gap: 10px;
     padding: 10px;
+    align-content: flex-start;
     grid-template-areas:
     'nav1'
 }

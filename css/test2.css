@@ -70,7 +70,7 @@ nav {
     grid-template-areas:
     'nav2 nav1'
 }
-.headernav2 {
+.headernav {
     display: none;
 }
 #hamburger-menu {

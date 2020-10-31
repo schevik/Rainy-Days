@@ -87,6 +87,7 @@ nav {
      margin-left: auto;
      margin-top: auto;
      margin-bottom: auto;
+     padding: auto;
  } 
  .fas.fa-home:hover {
      border-radius: 25px;
@@ -102,7 +103,7 @@ nav {
  .headernav {
      background-color: gray;
      border-radius: 25px;
-     padding: auto;
+    
  }
 
  .dropdownmen a:hover {

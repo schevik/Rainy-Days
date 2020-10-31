@@ -2,20 +2,12 @@
 <html>
 
 <head>
-    <title>Rainy Days | Outdoor Clothing</title>
-    <meta name="description"
-        content="This is the website of Rainy Days, where you can buy outdoor clothes for your trip">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/test2.css">
     <script src="https://kit.fontawesome.com/79998a828a.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
-
-
-    <header>
-        <a href="index.html">
-            <img src="images/RainyDays_Logo.png" alt="logo" class="logo"></a>
+    <nav>
         <div class="headernav">
             <a href="index.html"><i class="fas fa-home"></i></a>
             <div class="dropdownmen">
@@ -51,63 +43,67 @@
                     <a href="exploringkids.html">Exploring Jackets</a>
                 </div>
             </div>
-            <a href="shoppingcart.html"><i class="fas fa-shopping-cart"></i></a>
-            <a href="signIN.html"><i class="fas fa-sign-in-alt"></i></a>
+            <div class="headernav2">
+                <a href="signIN.html"><i class="fas fa-sign-in-alt"></i></a>
+                <a href="shoppingcart.html"><i class="fas fa-shopping-cart"></i></a>
+            </div>
+    </nav>
+    <header>
+        <img src="images/RainyDays_Logo.png" alt="logo" class="logo">
 
-        </div>
     </header>
+
+
+
     <main>
-        <form action="signin_page.php" method="POST">
-            <div class="containerlogin">
-                <label for="usrname">Username</label>
-                <input type="text" placeholder="Enter Username" name="usrname" required>
 
-                <label for="pswrd">Password</label>
-                <input type="password" placeholder="Enter Password" name="pswrd" required>
+        <section class="home-section">
+            <img src="images/raincoat.png">
+        </section>
+        <section class="home-section">
+            <img src="images/raincoat.png" alt="product">
+        </section>
+        <section class="home-section">
+            <img src="images/raincoat.png">
+        </section>
+        <section class="home-section">
 
-                <button type="submit">Login</button>
-                <label>
-                    <input type="checkbox" checked="checked" name="remember"> Remember me
-                </label>
-            </div>
-            <div class="containerlogin2">
-                <button type="buttonlogin" class="cancelbutton">Cancel</button>
-                <span class="pswrd">Forgot <a href="">password?</a></span>
-            </div>
-        </form>
+        </section>
+        <section class="home-section">
+            <img src="images/raincoat.png" alt="product">
+        </section>
+        <section class="home-section">
+            <img src="images/raincoat.png" alt="product">
+        </section>
+        <section class="home-section">
+            <img src="images/raincoat.png" alt="product">
+        </section>
 
     </main>
+
     <footer>
         <section class="info">
-            <div class="aboutus">
-                <h1>We have our office in:</h1>
-                <ul class="a">
-                    <li><i class="fas fa-map-pin"></i>Lorem Ipsum 12, Norway</li>
-                    <li><i class="fas fa-map-pin"></i>Lorem Ipsum 12, Sweden</li>
-                    <li><i class="fas fa-map-pin"></i>Lorem Ipsum 12, Denmark</li>
-                    <li><i class="fas fa-map-pin"></i>Lorem Ipsum 12. Finland</li>
+            <ul>
+                <li><i class="fas fa-map-pin"></i>Lorem Ipsum 12, Norway.</li>
+                <li><i class="fas fa-map-pin"></i>Lorem Ipsum 12, Sweden.</li>
+                <li><i class="fas fa-map-pin"></i>Lorem Ipsum 12, Denmark.</li>
 
-                </ul>
-            </div>
-            <div class="Payment">
-                <h1>We Accept:</h1>
-                <ul class="b">
-                    <li><i class="fab fa-cc-visa"></i></li>
-                    <li><i class="fab fa-cc-mastercard"></i></li>
-                    <li><i class="fab fa-cc-apple-pay"></i></li>
-                </ul>
-            </div>
-            <div class="contactus">
-                <h1>Contact Us:</h1>
-                <ul class="c">
-                    <li><i class="fab fa-twitter"></i></li>
-                    <li><i class="fab fa-facebook"></i></li>
-                    <li><i class="fas fa-envelope"></i></li>
-                    <li class="copy">&copy;</li>
-                </ul>
+            </ul>
+        </section>
+        <section class="payment">
+            <ul>
+                <li><i class="fab fa-cc-visa"></i></li>
+                <li><i class="fab fa-cc-mastercard"></i></li>
+                <li><i class="fab fa-cc-apple-pay"></i></li>
+            </ul>
+        </section>
+        <section class="contactus">
+            <ul>
+                <li><a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a></li>
+                <li><a href="mailto:loremipsum@lorem.com"><i class="fas fa-envelope"></i></a></li>
 
-
-            </div>
+            </ul>
         </section>
 
     </footer>

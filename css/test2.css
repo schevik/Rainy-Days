@@ -71,13 +71,13 @@ nav {
     'nav2 nav1'
 }
 .headernav {
-    display: block;
+    display: none;
 }
 #hamburger-menu {
     display: none;
 }
 #hamburger-menu:checked ~ .headernav {
-    display: none;
+    display: block;
 }
 
 

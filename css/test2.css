@@ -89,6 +89,8 @@ nav {
      margin-bottom: auto;
      padding-left: 50%;
      padding-top: 50%;
+     padding-bottom: 50%;
+     padding-right: 50%;
  } 
  .fas.fa-home:hover {
      border-radius: 25px;

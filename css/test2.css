@@ -70,6 +70,15 @@ nav {
     grid-template-areas:
     'nav2 nav1'
 }
+.headernav2 {
+    display: none;
+}
+#hamburger-menu {
+    display: none;
+}
+#hamburger-menu:checked ~ .headernav {
+    display: block;
+}
 .logo {
     display: block;
     margin-left: auto;

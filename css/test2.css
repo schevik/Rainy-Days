@@ -70,13 +70,13 @@ nav {
     grid-template-areas:
     'nav2 nav1'
 }
-.nav1{
+nav {
     display: none;
 }
 #hamburger-menu {
     display: none;
 }
-#hamburger-menu:checked ~ .nav1 {
+#hamburger-menu:checked ~ nav {
     display: block;
 }
 

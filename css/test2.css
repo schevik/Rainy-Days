@@ -337,13 +337,6 @@ nav {
  .home-section img {
      border-radius: 25px;
  }
- nav {
-    display: block;
-}
-
-#hamburger-menu {
-    display: none;
-}
 
 
 
@@ -354,7 +347,4 @@ i.fas.fa-bars {
 }
 i.fas.fa-bars:hover {
     background-color: lightblue;
-}
-#hamburger-menu:hover {
-    display: inline;
 }

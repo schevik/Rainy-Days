@@ -169,6 +169,9 @@ nav {
      border-radius: 25px;
  }
  
+ a:active {
+     background-color: lightblue;
+ }
  
  .dropdownmen:hover .dropdownmen-content {
      display: block;

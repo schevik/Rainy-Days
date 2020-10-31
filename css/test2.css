@@ -71,7 +71,7 @@ nav {
     'nav2 nav1'
 }
 .headernav {
-    visibility: hidden;
+    display: block;
 }
 #hamburger-menu {
     display: none;

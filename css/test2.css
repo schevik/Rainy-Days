@@ -169,7 +169,7 @@ nav {
      border-radius: 25px;
  }
  
- a:active {
+ .headernav a:active {
      background-color: lightblue;
  }
  

@@ -419,6 +419,7 @@ font-weight: bold;
 #sizes {
     margin-left: 300px;
     margin-bottom: 30px;
+    size: 450px 350px;
 }
 .home-section:nth-child(1) i {
     margin-left: 50;

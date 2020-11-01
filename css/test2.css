@@ -356,7 +356,7 @@ i.fas.fa-bars:hover {
     border-radius: 25px;
 }
 .home-section:nth-child(1) a {
-    color: white;
+    color: black;
     font-size: 25px;
 }
 .home-section:nth-child(2) a {

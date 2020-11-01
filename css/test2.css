@@ -416,8 +416,8 @@ color: black;
 font-size: 25px;
 font-weight: bold;
 }
-#sizes {
-    align-items: center;
+#sizes .product1{
+    float: left;
 }
 
 

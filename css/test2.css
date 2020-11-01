@@ -416,10 +416,13 @@ color: black;
 font-size: 25px;
 font-weight: bold;
 }
+form {
+    size: 450px 350px;
+}
 #sizes {
     margin-left: 300px;
     margin-bottom: 30px;
-    size: 450px 350px;
+    
 }
 .home-section:nth-child(1) i {
     margin-left: 50;

@@ -2,6 +2,11 @@
 <html>
 
 <head>
+    <title>Rainy Days</title>
+    <meta name="description"
+        content="This is the website of Rainy Days, where you can buy outdoor clothes for your trip">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <link rel="stylesheet" href="css/test2.css">
     <script src="https://kit.fontawesome.com/79998a828a.js" crossorigin="anonymous"></script>
 </head>
@@ -57,18 +62,23 @@
 
     <main>
 
-        <section class="home-section">
-            <img src="images/raincoat.png"><a href="campingmennr1.html">659$</a>
-        </section>
-        <section class="home-section">
-            <img src="images/raincoat.png" alt="product"><a href="campingmennr2.html">786$</a>
-        </section>
-        <section class="home-section">
-            <img src="images/raincoat.png"><a href="campingmennr3.html">559$</a>
-        </section>
-        <section class="home-section">
 
+        <section class="home-section">
+            <img src="images/raincoat.png" alt="product" class="product1">
+            <form action="action1_page.php">
+                <select name="sizes" id="sizes">
+                    <option value="XS">XS</option>
+                    <option value="S">S</option>
+                    <option value="M">M</option>
+                    <option value="L">L</option>
+                    <option value="XL">XL</option>
+                    <option value="XXL">XXL</option>
+                </select>
+
+                <a href="shoppingcart.html"><i class="fas fa-cart-plus"></i></a>
+            </form>
         </section>
+
 
     </main>
 

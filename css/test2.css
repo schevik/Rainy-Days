@@ -358,10 +358,12 @@ i.fas.fa-bars:hover {
 .home-section:nth-child(1) a {
     color: black;
     font-size: 25px;
+    font-weight: bold;
 }
 .home-section:nth-child(2) a {
 color: black;
 font-size: 25px;
+font-weight: bold;
 }
 .home-section:nth-child(2) {
 border-radius: 25px;
@@ -374,6 +376,7 @@ background-color: lightblue;
 .home-section:nth-child(3) a {
     color: black;
     font-size: 25px;
+    font-weight: bold;
 }
 .home-section:nth-child(4) {
     background-color: lightblue;
@@ -387,6 +390,7 @@ border-radius: 25px;
 .home-section:nth-child(5) a {
 color: black;
 font-size: 25px;
+font-weight: bold;
 }
 .home-section:nth-child(6) {
 background-color: lightblue;
@@ -395,6 +399,7 @@ border-radius: 25px;
 .home-section:nth-child(6) a {
 color: black;
 font-size: 25px;
+font-weight: bold;
 }
 .home-section:nth-child(7) {
 background-color: lightblue;

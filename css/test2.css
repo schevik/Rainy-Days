@@ -416,15 +416,13 @@ color: black;
 font-size: 25px;
 font-weight: bold;
 }
-input[type=select] {
-    background-color: black;
-}
-form {
-    size: 450px 350px;
+ 
+
 }
 #sizes {
     margin-left: 300px;
     margin-bottom: 30px;
+    margin-right: 0px;
     
 }
 .home-section:nth-child(1) i {

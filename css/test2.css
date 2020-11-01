@@ -416,6 +416,9 @@ color: black;
 font-size: 25px;
 font-weight: bold;
 }
+#sizes {
+    margin-left: auto;
+}
 
 
   * {box-sizing: border-box}

@@ -352,8 +352,8 @@ i.fas.fa-bars:hover {
     background-color: lightblue;
 }
 
-.home-section:nth-child(1) {
-    color: black;
+.home-section:nth-child(1) a {
+    color:black;
 }
 
 .home-section:nth-child(4) {

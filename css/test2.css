@@ -417,7 +417,7 @@ font-size: 25px;
 font-weight: bold;
 }
 #sizes {
-    margin-left: auto;
+    align-items: center;
 }
 
 

@@ -380,7 +380,8 @@ background-color: lightblue;
 }
 .home-section:nth-child(4) h1 {
     color: black;
-    margin-left: auto;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
     font-size: 50px;
 }
 .home-section:nth-child(4) {

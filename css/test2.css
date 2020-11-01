@@ -378,6 +378,12 @@ background-color: lightblue;
     font-size: 25px;
     font-weight: bold;
 }
+.home-section:nth-child(4) h1 {
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+}
 .home-section:nth-child(4) {
     background-color: lightblue;
     border-radius: 25px;
